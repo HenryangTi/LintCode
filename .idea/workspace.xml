@@ -2,69 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2f031a-594f-4aaf-a455-a96cc4183373" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode_Algorithm.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/.idea/src.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/ArrayTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/BianryTreePaths_NineChapter_alg3/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/BianryTreePaths_NineChapter_alg3/Solution1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/BianryTreePaths_NineChapter_alg3/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/BianryTreePaths_NineChapter_alg3/solution3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/BubbleSort/bubble.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/FindBottomLeftTreeValue/FindLeft.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/FindBottomLeftTreeValue/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/Longest_Palindrome/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/MaximumBinaryTree/BuildTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/MaximumBinaryTree/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/NineChapterTree/TreeTravesal/preorder/Traverse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/NineChapterTree/TreeTravesal/preorder/TreeTravesal$TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/NineChapterTree/TreeTravesal/preorder/TreeTravesal.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/NineChapterTree/TreeTravesal/preorder/divideConquer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/hadoop-command/command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/hadoop-command/笔记.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/maximumDepthOfBinaryTree_nineChapter_alg3/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/maximumDepthOfBinaryTree_nineChapter_alg3/maximumDepthOfBinaryTree_nineChapter_alg3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/maximumDepthOfBinaryTree_nineChapter_alg3/travese.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/quickSorting/newQuickSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/quickSorting/quickSorting.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/reverseListNode450/ListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/reverseListNode450/reverseListNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Leetcode_Algorithm/sortColors/solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.idea/src.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/Solution1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/solution3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BubbleSort/bubble.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/FindBottomLeftTreeValue/FindLeft.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/FindBottomLeftTreeValue/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Longest_Palindrome/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MaximumBinaryTree/BuildTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MaximumBinaryTree/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NineChapterTree/TreeTravesal/preorder/Traverse.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NineChapterTree/TreeTravesal/preorder/TreeTravesal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NineChapterTree/TreeTravesal/preorder/divideConquer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hadoop-command/command.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/hadoop-command/笔记.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximumDepthOfBinaryTree_nineChapter_alg3/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximumDepthOfBinaryTree_nineChapter_alg3/maximumDepthOfBinaryTree_nineChapter_alg3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/maximumDepthOfBinaryTree_nineChapter_alg3/travese.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/quickSorting/newQuickSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/quickSorting/quickSorting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/reverseListNode450/ListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/reverseListNode450/reverseListNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/sortColors/solution.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/Solution.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/Solution1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/TreeNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/solution3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/NineChapterTree/TreeTravesal/preorder/Traverse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/NineChapterTree/TreeTravesal/preorder/TreeTravesal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/NineChapterTree/TreeTravesal/preorder/divideConquer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/maximumDepthOfBinaryTree_nineChapter_alg3/TreeNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/maximumDepthOfBinaryTree_nineChapter_alg3/maximumDepthOfBinaryTree_nineChapter_alg3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/maximumDepthOfBinaryTree_nineChapter_alg3/travese.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,18 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BianryTreePaths_NineChapter_alg3/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Longest_Palindrome/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -546,12 +483,12 @@
       <workItem from="1521721454177" duration="780000" />
       <workItem from="1522055050806" duration="1225000" />
       <workItem from="1522074210242" duration="268000" />
-      <workItem from="1522121651833" duration="56000" />
+      <workItem from="1522121651833" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60396000" />
+    <option name="totallyTimeSpent" value="60604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -839,9 +776,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
