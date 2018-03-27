@@ -1,0 +1,6 @@
+配置伪分布模式
+cd /home/henry/soft/hadoop-3.0.0/etc/hadoop
+edit core-site.xml
+edit hdfs-site.xml
+
+
