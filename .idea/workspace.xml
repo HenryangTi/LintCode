@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2f031a-594f-4aaf-a455-a96cc4183373" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/resource/笔记.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/resource/关于idea的tomcat没有artifact以及测试tomcat报404错误.pdf" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -469,12 +470,12 @@
       <workItem from="1521721454177" duration="780000" />
       <workItem from="1522055050806" duration="1225000" />
       <workItem from="1522074210242" duration="268000" />
-      <workItem from="1522121651833" duration="644000" />
+      <workItem from="1522121651833" duration="751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60984000" />
+    <option name="totallyTimeSpent" value="61091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
