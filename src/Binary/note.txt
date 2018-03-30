@@ -1,0 +1,2 @@
+last position of target
+start < end会出现死循环

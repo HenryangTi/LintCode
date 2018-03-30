@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2f031a-594f-4aaf-a455-a96cc4183373" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Binary/note.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/resource/关于idea的tomcat没有artifact以及测试tomcat报404错误.pdf" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,11 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sortColors/solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
               <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Binary/note.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -174,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/meituan/solution1.java" />
         <option value="$PROJECT_DIR$/src/BubbleSort/bubble.java" />
         <option value="$PROJECT_DIR$/src/sortColors/solution.java" />
+        <option value="$PROJECT_DIR$/src/Binary/note.txt" />
       </list>
     </option>
   </component>
@@ -217,6 +228,12 @@
               <item name="Leetcode_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode_Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,15 +487,16 @@
       <workItem from="1521721454177" duration="780000" />
       <workItem from="1522055050806" duration="1225000" />
       <workItem from="1522074210242" duration="268000" />
-      <workItem from="1522121651833" duration="751000" />
+      <workItem from="1522121651833" duration="1349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61091000" />
+    <option name="totallyTimeSpent" value="61689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -492,7 +510,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21324718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21324718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -520,13 +538,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MaximumBinaryTree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximumBinaryTree/BuildTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -845,6 +856,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binary/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           <folding />
         </state>
       </provider>
